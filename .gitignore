@@ -1,0 +1,95 @@
+# Compiled object files and libraries
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Static libraries
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Dependency files
+*.d
+
+# Generated files by CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeLists.txt.user
+
+# Build directories
+build/
+bin/
+lib/
+
+# Code::Blocks project files
+*.cbp
+*.depend
+*.layout
+
+# Qt Creator project files
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.pro.user.*
+*.creator.user
+*.creator.user.*
+*.creator
+*.creator.*
+
+# Xcode project files
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.xcuserstate
+
+# Visual Studio project files
+.vscode/
+.vs/
+*.sln
+*.vcxproj*
+*.pdb
+*.ipch
+*.opensdf
+*.sdf
+*.cache
+*.ncb
+*.user
+*.vcxproj.user
+*.filters
+
+# Eclipse project files
+.project
+.cproject
+.settings/
+
+# Other IDE and editor files
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.tmp
+*~
